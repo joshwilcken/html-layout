@@ -1,0 +1,27 @@
+header {
+    background-color: gray;
+    padding: 40px;
+}
+footer {
+    background-color: black;
+    height: 100px;
+    position: absolute;
+    display: inline-block;
+    bottom: 0;
+    width: 77.25vw;
+    right: 11.5vw;
+    }
+.left-margin {
+    background-color: #D3D3D3;
+    height: 90vh;
+    width: 10vw;
+    display: inline-block;
+    float: left;
+        }
+.right-margin {
+    background-color: #D3D3D3;
+    height: 90vh;
+    width: 10vw;
+    display: inline-block;
+    float: right;
+}
